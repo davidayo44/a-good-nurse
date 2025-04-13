@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# A GOOD NURSE
+
+*A GOOD NURSE* is an online platform designed to help nurses around the world improve their knowledge and skills through shared resources, educational materials, and a strong global community.
+
+## Features
+
+- *Educational Resources*: Access free guides, tips, and articles to improve your nursing skills.
+- *Join the Community*: Connect with other nurses, share experiences, and learn together.
+- *Worldwide Support*: Empowering nurses from all over the world to enhance their expertise.
+
+## Getting Started
+
+To run the project locally on your computer, follow these steps:
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/davidayo44/a-good-nurse.git
+cd a-good-nurse
+>>>>>>> a93c5c1425e8d6c92d741e08ac532320ecfa41e3
